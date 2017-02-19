@@ -12,6 +12,6 @@
 - Kontrol yapıları
 - Döngüler
 - Diziler
-- Class kavramı
+- Metodlar
 - Android Studio kurulumu
 - Gnymotion kurulumu 
