@@ -6,7 +6,7 @@
 - Genymotion:https://www.genymotion.com/account/create/ (üye olmadan indiremezsiniz...)
 
 
-------------- İlk ders için konuları (Genel Java Eğitimi)
+----------------- İlk ders için konuları (Genel Java Eğitimi)--------------------------
 - Habitat Derneği ve yaptığı çalışmalar hakkında bilgi 
 - Veri tipleri
 - Kontrol yapıları
