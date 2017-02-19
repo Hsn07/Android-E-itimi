@@ -4,3 +4,14 @@
 - Eclipse Mars:https://eclipse.org/downloads/packages/eclipse-ide-java-developers/mars2
 - Android Studio:https://developer.android.com/studio/index.html
 - Genymotion:https://www.genymotion.com/account/create/ (üye olmadan indiremezsiniz...)
+
+
+- İlk ders için konuları (Genel Java Eğitimi)
+- Habitat Derneği ve yaptığı çalışmalar hakkında bilgi 
+- Veri tipleri
+- Kontrol yapıları
+- Döngüler
+- Diziler
+- Class kavramı
+- Android Studio kurulumu
+- Gnymotion kurulumu 
