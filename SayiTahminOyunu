@@ -1,0 +1,33 @@
+import java.util.Scanner;
+import java.util.Random;
+public class SayiTahminOyunu {
+
+	public static void main(String[] args) {
+		Scanner kullanicidandegeral=new Scanner(System.in);
+		boolean dongudurumu=true;
+		Random rnd=new Random();
+		int rasgale=rnd.nextInt(15);
+		while(dongudurumu)
+		{
+			System.out.println("Lütfen sayiyi tahmin ediniz...");
+			int sayi=kullanicidandegeral.nextInt();
+			if(sayi<rasgale)
+			{
+				System.out.println("tuttuğum sayıdan küçük bir sayi söylediniz...");
+			}
+			else if(sayi>rasgale)
+			{
+				System.out.println("tuttuğum sayıdan büyük bir sayi söylediniz...");
+			}else
+			{
+				System.out.println("TEBRİKLER... Tahmin ettiğim sayiyi doğru tahmin ettiniz...");
+				dongudurumu=false;
+			}
+		}
+		
+		
+		
+
+	}
+
+}
