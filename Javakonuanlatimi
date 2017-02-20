@@ -84,6 +84,7 @@ public class Veritipleri {
 		sehirler[2] = "İstanbul";
 		//Çift boyutlu diziler 
 		//int [][] matris=new  int[satırsayısı][sutunsayısı];bu şelide tanımlanır...
+		//not:Metotlar Android Studio üzerinden tekrar anlatılacaktırrr...
 	
 	}
 	
