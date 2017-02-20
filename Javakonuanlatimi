@@ -1,0 +1,92 @@
+//NOT:bu kodları eclipse üzerinden çalıştırabilirsiniz. Kopyala-yapıştır ile
+import java.util.Scanner;
+import java.util.Random;
+public class Veritipleri {
+
+	public static void main(String[] args) {
+		//Veri tipleri 
+		//Tam sayı veri tipleri (byte,short,int,long)
+		//Ondalık sayı veri tipleri (double,float)
+		//Metin veri tipleri (String)
+		//Karakter veri tipi (char)
+		//Değişken_tipi Değişken_Adi
+		int sayi=10;//Değişkenlere değerini ilk başta da verebiliriz.
+		int sayi1;//Değişkenleri ilk başta tanımlayıp
+		sayi1=10;//Daha sonra da değer atayabiliriz.
+		String metin="metin tipi";//
+		String yazı;//String bir ifadede atama işlemi yaparken " " çift tırnak içine yazılır.
+		yazı="metin tipindeki ve diğer eleman türündekini hepsini string ifade olarak da alabiliriz";
+		double ondalik_sayi=10.5;
+		char karakter='a';//karakter tanımlarken tek tırnak içinde tanımlanır.
+		boolean durum=true;//boolean değerler sadece true/false değerini alır.
+		//Kontrol Yapılari
+		//////////////// if /////////////////7
+		System.out.println("if kontrol yapısı");
+		if(durum)//durum doğru ise if içindeki işlemleri yapar
+		{
+			System.out.println("İfdeki işlemler yapılır...");
+		}
+		///////////////////////if-else if-else///////////////
+		System.out.println("if-else if-else kontrol yapısı");
+		int yas=3;
+		if(yas==1)
+		{
+			System.out.println("1 yaşındasınız...");
+		}
+		else if(yas==2)
+		{
+			System.out.println("2 yasındasınız");
+		}else//koşullardan hiçbirisine uymuyorsa else deki işlemler gerçekleşir...
+		{
+			System.out.println("2 yasından büyüksünüz...");
+	    }
+		//switch kontrol yapısı
+		System.out.println("switch-case kontrol yapısı");
+		char not='A';
+		switch(not)
+		{
+		case('A')://Karakter olduğu için tek tırnak arasında yazdık
+			System.out.println("Tebrikler...Notunuz A 'dır...");
+			break;
+		case('C'):
+			System.out.println("EEEH idare eder... Notunuz C'dir");
+			break;
+		default:
+			System.out.println("Çok kötü notunuza bakmaya gerek yok...");
+		
+		}
+		
+		//Döngüler
+		//for döngüsü
+		//for(baslangıc değeri;koşul;artış miktarı){}
+		System.out.println("For döngüsü");
+		for(int a=0;a<10;a++)
+		{
+			System.out.println(a);
+		}
+		//while döngüsü
+		System.out.println("While döngüsü");
+		int sayi3=0;
+		while(sayi3!=5)//döngüde sayi3 5 e eşit olmadığı sürece işlem devam eder...
+		{
+			System.out.println(sayi3);
+			sayi3++;
+		}
+		//Diziler 
+		//Tek boyutlu dizi sayısı
+		System.out.println("Diziler");
+		//dizi_tipi [] dizi adi=new dizi_tipi[Dizi boyutu]
+		int []sayilar={1,2,3,4,5};
+		String [] sehirler=new String[3];
+		//sehirler={"Antalya","Denizli","İstanbul"};
+		sehirler[0] = "Denizli";//her farklı index e teker teker atama yapıyoruz...
+		sehirler[1] = "Antalya";
+		sehirler[2] = "İstanbul";
+		//Çift boyutlu diziler 
+		//int [][] matris=new  int[satırsayısı][sutunsayısı];bu şelide tanımlanır...
+	
+	}
+	
+	
+
+}
