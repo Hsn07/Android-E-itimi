@@ -27,4 +27,4 @@ Eclipse Mars:https://eclipse.org/downloads/packages/eclipse-ide-java-developers/
 - Button kullanımı
 - Button tasarımı
 - Uygulama ikon değiştirme
-- Animation ile hareketli button yapma
+- RotateAnimation ile hareketli button yapma
