@@ -1,3 +1,4 @@
+- Not:Eğitim sonunda sertifika (Habitat Bilişim Mucitleri Katılım belgesi) verilecektir...
 # Android-Egitimi
 ------------------- egitim için gerekli programlar -----------------------------------
 - Java Jdk:http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
