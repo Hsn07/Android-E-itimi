@@ -28,12 +28,14 @@ Eclipse Mars:https://eclipse.org/downloads/packages/eclipse-ide-java-developers/
 - Button tasarımı
 - Uygulama ikon değiştirme
 - RotateAnimation ile hareketli button yapma
+
 ---------------------------------- 3. Ders Konular -------------------------------------
 - EditText kullanımı
 - TextView kullanımı
 - ImageView kullanımı
 - ScrollView kullanımı(kaydırma kubuğu)
 - Basit bir uygulama yapımı(Bilgi Hazinesi)
+
 ---------------------------------- 4. Ders Uygulama-1 ----------------------------------
 - Uygulama adı:Bilgi Hazinesi
 - Uygulamada Kullanılacaklar;
