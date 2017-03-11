@@ -34,7 +34,7 @@ Eclipse Mars:https://eclipse.org/downloads/packages/eclipse-ide-java-developers/
 - TextView kullanımı
 - ImageView kullanımı
 - ScrollView kullanımı(kaydırma kubuğu)
-- Basit bir uygulama yapımı(Bilgi Hazinesi)
+- Basit bir uygulama yapımı(3.Ders konuları)
 
 ---------------------------------- 4. Ders Uygulama-1 ----------------------------------
 - Uygulama adı:Bilgi Hazinesi
