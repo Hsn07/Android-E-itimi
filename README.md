@@ -45,9 +45,14 @@ Eclipse Mars:https://eclipse.org/downloads/packages/eclipse-ide-java-developers/
 - Random sayı kullanımı
 - Dizi kullanımı
 
-
-
--
--
--
+-------------------------------- 5. Ders Konular ---------------------------------------
+- Intent Kavramı
+- Açık (Expilicit) Intent
+- Üstü kapalı (Implicit) Intent
+- Açık intent örneği (Sayfalar arası geçiş)
+- Intent yardımı ile veri aktarma
+- Üstü kapalı intent örneği (paylaş özelliği)
+- 
+- 
+- 
 - Not:Eğitim sonunda sertifika (Habitat Bilişim Mucitleri Katılım belgesi) verilecektir...
